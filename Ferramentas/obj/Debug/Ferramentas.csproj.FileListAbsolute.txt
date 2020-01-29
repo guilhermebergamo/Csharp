@@ -1,0 +1,5 @@
+C:\Users\Diego Perillo\Desktop\Projetos Visual Studio\ControleDeEstoque\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\Diego Perillo\Desktop\Projetos Visual Studio\ControleDeEstoque\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\Diego Perillo\Desktop\Projetos Visual Studio\ControleDeEstoque\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.csprojAssemblyReference.cache
+C:\Users\Diego Perillo\Desktop\Projetos Visual Studio\ControleDeEstoque\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\Diego Perillo\Desktop\Projetos Visual Studio\ControleDeEstoque\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.pdb

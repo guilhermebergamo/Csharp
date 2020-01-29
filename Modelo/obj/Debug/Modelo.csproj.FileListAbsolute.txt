@@ -1,0 +1,5 @@
+C:\Users\Diego Perillo\Desktop\Projetos Visual Studio\ControleDeEstoque\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Diego Perillo\Desktop\Projetos Visual Studio\ControleDeEstoque\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Diego Perillo\Desktop\Projetos Visual Studio\ControleDeEstoque\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Diego Perillo\Desktop\Projetos Visual Studio\ControleDeEstoque\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Diego Perillo\Desktop\Projetos Visual Studio\ControleDeEstoque\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
